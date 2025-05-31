@@ -1,11 +1,11 @@
 # BCG Open-Access Data Science Advanced Analytics Virtual Experience Program
 
-      Program has 4 modules
+Program has 4 modules:
             
-            1: Business Understanding & Hypothesis Framing
-            2: Exploratory Data Analysis
-            3: Feature Engineering & Modelling
-            4: Findings & Recommendations
+1. Business Understanding & Hypothesis Framing
+2. Exploratory Data Analysis
+3. Feature Engineering & Modelling
+4. Findings & Recommendations
 
 ![one day bcg logo green ](https://user-images.githubusercontent.com/27211670/183700820-2248f4ee-655f-40dc-8628-8495072a3979.png)
 
