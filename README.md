@@ -51,9 +51,9 @@ The BCG project team thinks that building a churn model to understand whether pr
 
 ##### The data that was sent over includes:
 
-      • Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
-      • Historical pricing data: variable and fixed pricing data etc
-      • Churn indicator: whether each customer has churned or not
+- Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
+- Historical pricing data: variable and fixed pricing data etc
+- Churn indicator: whether each customer has churned or not
       
 ##### Tasks to do
 **Sub-Task 1:**
