@@ -10,7 +10,7 @@ Program has 4 modules:
 ![one day bcg logo green ](https://user-images.githubusercontent.com/27211670/183700820-2248f4ee-655f-40dc-8628-8495072a3979.png)
 
 ## Task 1 - Business Understanding & Hypothesis Framing
-Understanding the business context and problem statement.
+*Understanding the business context and problem statement.*
 
 #### The background information on this Task 1
 
@@ -43,7 +43,7 @@ You must formulate the hypothesis as a data science problem and lay out the majo
 
 
 ## Task 2 - Exploratory Data Analysis
-Understanding the business through data
+*Understanding the business through data*
 
 #### The background information on this Task 2
 
@@ -68,14 +68,14 @@ Verify the hypothesis of price sensitivity being to some extent correlated with 
 
 Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open source datasets might be useful?
 
-**Note:** Use the 2 datasets within the additional resources for this task and if you’re unsure on where to start with visualizing data, use the accompanying links. Be sure to also use the data description document to understand what the columns represent. The task description document outlines the higher-level motivation of the project.
+**Note:** *Use the 2 datasets within the additional resources for this task and if you’re unsure on where to start with visualizing data, use the accompanying links. Be sure to also use the data description document to understand what the columns represent. The task description document outlines the higher-level motivation of the project.*
 
 **How to solve this task:**
   Think about ways you can define price sensitivity. Make sure to think of all possible ways and investigate them.
 
 
 ## Task 3 - Feature Engineering & Modelling
-Uncovering signals within the data, predicting churn probability and evaluating model performance
+*Uncovering signals within the data, predicting churn probability and evaluating model performance*
 
 #### The background information on this Task 3
 
@@ -133,7 +133,7 @@ Do you think that the model performance is satisfactory? Give justification for 
     
     
 ## Task 4 - Findings & Recommendations
-Presenting your results and giving recommended actions to the client
+*Presenting your results and giving recommended actions to the client*
 
 #### The background information on this Task 3
 
